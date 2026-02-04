@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VSCode_Working\\Python\\Revit_COPO_LAZ\\RvtLoadLaz\\RvtLoadLaz.csproj": {}
+  },
+  "projects": {
+    "D:\\VSCode_Working\\Python\\Revit_COPO_LAZ\\RvtLoadLaz\\RvtLoadLaz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VSCode_Working\\Python\\Revit_COPO_LAZ\\RvtLoadLaz\\RvtLoadLaz.csproj",
+        "projectName": "RvtLoadLaz",
+        "projectPath": "D:\\VSCode_Working\\Python\\Revit_COPO_LAZ\\RvtLoadLaz\\RvtLoadLaz.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\VSCode_Working\\Python\\Revit_COPO_LAZ\\RvtLoadLaz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

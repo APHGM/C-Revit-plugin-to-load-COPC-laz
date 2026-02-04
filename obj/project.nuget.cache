@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RplvUNgSUW2JToWJ7Y4k/mth2JPB3cDvLEQAuOu12aTx7klUHup9nimwOQmctB37eWhL1Q4Ke47erdqWSkQsnQ==",
+  "success": true,
+  "projectFilePath": "D:\\VSCode_Working\\Python\\Revit_COPO_LAZ\\RvtLoadLaz\\RvtLoadLaz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.2\\microsoft.netframework.referenceassemblies.net48.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
